@@ -1,4 +1,4 @@
-package com.localmanager.app.model;
+package com.localmanager.app.model.entities;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

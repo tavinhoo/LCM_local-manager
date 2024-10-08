@@ -1,4 +1,7 @@
-package com.localmanager.app.model;
+package com.localmanager.app.model.entities;
+
+import com.localmanager.app.model.entities.enums.PaymentMethod;
+import com.localmanager.app.model.entities.enums.PaymentStatus;
 
 public class OrderItem {
     private Long id;

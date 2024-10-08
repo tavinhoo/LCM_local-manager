@@ -1,4 +1,4 @@
-package com.localmanager.app.model.enums;
+package com.localmanager.app.model.entities.enums;
 
 public enum PaymentStatus {
     PAID_OUT(1),
